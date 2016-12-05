@@ -26,7 +26,7 @@ namespace ObjectComparer
 
             //People peopleC = new People("Bertil");
 
-            // Adding a comment for GitHub.
+            // This is a change comment for GitHub.
 
             List<Variance> variances = personA.DetailedCompare(personB);
             
